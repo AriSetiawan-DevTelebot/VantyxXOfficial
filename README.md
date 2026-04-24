@@ -1,85 +1,72 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:1a1a1a&height=180&section=header&text=VANTYXX&fontColor=ffffff&fontSize=40&animation=fadeIn" />
-</p>Ari Setiawan
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:1a1a1a&height=180&section=header&text=Welcome%20to%20VANTYXX&fontColor=ffffff&fontSize=35&animation=fadeIn"/>
+</p><p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+</p><h2 align="center">Ari Setiawan</h2>
+<p align="center">VantyxX • Automation Systems • AI Tools</p>---
 
-VantyxX
-Automation Systems • AI Tools • Digital Infrastructure
+👤 Profile
 
----
-
-I design systems that turn ideas into working tools —
-focused on efficiency, simplicity, and real-world usage.
-
----
-
-What I Do
-
-- Build automation systems
-- Develop messaging-based tools
-- Create custom workflows
-- Turn ideas into scalable solutions
+I build automation systems and digital tools.
+Focused on turning ideas into working solutions that are simple, efficient, and usable.
 
 ---
 
-Systems
+⚙️ Tech Stack
 
-Fixred
-Group Creator
-Convert Engine
-File Tools
-Automation Network
-
----
-
-Tech
-
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="26" />
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="26" />
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="28"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="28"/>
 </p>---
 
-Products
+🚀 Systems
 
-@VXOCREATE_BOT
-@VantyxCVFILE_BOT
-@VXOFixCoreSystemBot
-@ChangeCtcBot
+- Fixred System
+- Group Creator
+- Convert Engine
+- File Tools
+- Automation Network
 
 ---
 
-Connect
+🤖 Products
 
-<p align="left">
+<p><a href="https://t.me/VXOCREATE_BOT">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" width="24"/>
+</a><a href="https://t.me/VantyxCVFILE_BOT">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" width="24"/>
+</a><a href="https://t.me/VXOFixCoreSystemBot">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" width="24"/>
+</a><a href="https://t.me/ChangeCtcBot">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" width="24"/>
+</a></p>---
+
+🧠 Approach
+
+Understand → Design → Build → Improve
+
+---
+
+📡 Contact
+
+<p>
 <a href="https://t.me/VantyxXOfficial">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" width="20" />
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" width="22"/>
 </a>
-&nbsp;&nbsp;
 <a href="https://github.com/AriSetiawan-DevTelebot">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" width="20" />
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" width="22"/>
 </a>
 </p>---
 
-Approach
+💼 Services
 
-Understand → Design → Build → Refine
-
----
-
-Contact
-
-@VantyxXOfficial
-
-Available for selected automation projects.
+Automation Systems • Bot Development • Custom Tools
 
 ---
 
-Statement
-
-I don’t focus on writing code.
-I focus on building systems that work.
-
----
+<p align="center">
+Available for selected projects
+</p>---
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:0a0a0a&height=120&section=footer"/>
